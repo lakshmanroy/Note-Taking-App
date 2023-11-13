@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "462720087163",
+    "firebase_url": "https://examplekotlin-54574-default-rtdb.firebaseio.com",
+    "project_id": "examplekotlin-54574",
+    "storage_bucket": "examplekotlin-54574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462720087163:android:5067b2b4791a947f451ede",
+        "android_client_info": {
+          "package_name": "com.lkrd.firebases"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyActRH4dM6fQvC_120egol4WcvEa6EEGQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
